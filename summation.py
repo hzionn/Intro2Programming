@@ -16,4 +16,3 @@ while i < length:
     i += 1
 
 print("數字的總和是：", sum)
-

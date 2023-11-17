@@ -18,7 +18,7 @@ while True:
     user_input = input("輸入轉換指令（例如 '15 cm inch'）或輸入 'exit' 以結束：")
 
     # 檢查是否為結束指令
-    if user_input.lower() == 'exit':
+    if user_input.lower() == "exit":
         print("程式結束")
         break
 
@@ -45,4 +45,3 @@ while True:
 
     except ValueError:
         print("無效的數值，請重新輸入")
-

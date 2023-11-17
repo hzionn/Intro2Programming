@@ -22,4 +22,3 @@ if valid_count == len(phone_number):
     print("VALID phone number")
 else:
     print("INVALID phone number")
-

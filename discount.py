@@ -22,4 +22,3 @@ elif items[to_buy] > 25000:
     print(items[to_buy] * 0.9)
 else:
     print(items[to_buy] - 500)
-

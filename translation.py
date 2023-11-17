@@ -23,4 +23,3 @@ if 1 <= number <= 4:
         print("Grape")
 else:
     print("請輸入介於 1~4 的數字")
-

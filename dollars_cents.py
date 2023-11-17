@@ -12,4 +12,3 @@ cents = pennies % 100
 # so that we can have it in dollars and cents
 print(f"dollars: {dollars}")
 print(f"cents: {cents}")
-

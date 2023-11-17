@@ -6,10 +6,9 @@
 celsius = 42
 
 # 轉換公式：F = C * 9/5 + 32
-fahrenheit = celsius * 9/5 + 32
+fahrenheit = celsius * 9 / 5 + 32
 
 celsius_formatted = f"{celsius:3d}"
 fahrenheit_formatted = f"{fahrenheit:5.2f}"
 
 print(celsius_formatted), print(fahrenheit_formatted)
-

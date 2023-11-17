@@ -22,4 +22,3 @@ print(f"total gap: {total_gap}")
 
 each_gap = total_gap / 2
 print(f"each gap: {each_gap}")
-

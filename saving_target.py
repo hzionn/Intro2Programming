@@ -24,4 +24,3 @@ while current_amount < target_amount:
 
 # 輸出結果
 print(f"需要 {years} 年，本金 {initial_amount} 元可以增長到 {target_amount} 元。")
-

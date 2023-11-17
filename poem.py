@@ -30,4 +30,3 @@ print("=" * 50)
 for sentence in user_input:
     print(sentence)
 print("像極了愛情")
-

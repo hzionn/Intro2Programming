@@ -11,4 +11,3 @@ for character in credit_card:
         filtered_credit_card += character
 
 print(filtered_credit_card)
-
