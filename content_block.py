@@ -17,3 +17,4 @@ def string_block(message: str):
 
 message = input("Enter your message: ")
 string_block(message)
+
