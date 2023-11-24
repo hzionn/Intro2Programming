@@ -1,11 +1,12 @@
 """
 check if this is a valid phone number.
 """
+import random
 
 phone_number = "(703)321-6753"
 phone_number = input("your phone number, e.g. (703)321-6753: ")
 pos = 0
-valid_count = 0
+valid_count=0
 
 while len(phone_number) == 13 and pos < len(phone_number):
     if pos == 0 and phone_number[pos] == "(":
