@@ -14,5 +14,6 @@ tags:: container, ADT
   print(type(numbers))
   print(numbers)
   ```
-- [Set Operations: Union, Intersection, and Difference](https://learnpython.com/blog/python-set-operations/)
-- [More on Set Operations](https://www.programiz.com/python-programming/set)
+- ## More
+	- [Set Operations: Union, Intersection, and Difference](https://learnpython.com/blog/python-set-operations/)
+	- [More on Set Operations](https://www.programiz.com/python-programming/set)
